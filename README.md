@@ -4,7 +4,7 @@
 We're going to build a hash that stores the recipe of Karlie Kloss' Perfect 10 Cookie. Think of the Perfect 10 cookie as an oatmeal cookie meeting an energy bar! It's made with gluten-free oats, almonds, mini chocolate chips and sweetened with agave. Each purchase of a Perfect 10 provides ten school lunches to hungry children around the world. 
 
 
-And as a reminder, a hash is a data structure, similar to an array, but instead of using numbered indexes to access data we linke each piece of data with a string (or symbol). Hashes looks like this:
+And as a reminder, a hash is a data structure, similar to an array, but instead of using numbered indexes to access data we linked each piece of data with a string (or symbol). Hashes looks like this:
 
 ```ruby
 student_ages = {
